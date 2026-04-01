@@ -768,7 +768,7 @@ A.O Sentinel/
 
 **Ahmad Oglah Abuzaid**
 Computer Science · German Jordanian University
-Security Researcher · Intern @ Artl Studio
+Backend Developer · Intern @ Artl Studio
 
 *"Build tools that respect privacy, understand context, and give engineers the clarity they need to ship secure software."*
 
