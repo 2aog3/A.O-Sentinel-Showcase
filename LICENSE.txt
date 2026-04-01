@@ -1,0 +1,16 @@
+Copyright (c) 2026 Ahmad Oglah Abuzaid.
+All rights reserved.
+
+This software and associated documentation files (the "A.O Sentinel") are the sole property of Ahmad Oglah Abuzaid.
+
+RESTRICTIONS:
+
+No Modification: You are strictly prohibited from modifying, altering, or creating derivative works of this software.
+
+No Distribution: You may not redistribute, sub-license, or share this source code with any third party without explicit written permission from the owner.
+
+Personal/Educational Use Only: This code is for viewing and educational purposes only as part of a portfolio for Ahmad Oglah Abuzaid.
+
+No Commercial Use: Using this software for any commercial purpose or within a corporate environment without a license is strictly forbidden.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
