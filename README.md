@@ -26,6 +26,42 @@
 </div>
 
 ---
+<p align="center">
+  <img src="Photos/Screenshot%202026-04-01%20182008.png" width="900" alt="A.O Sentinel Main Dashboard">
+  <br>
+  <b><i>Core Dashboard: Real-time AI Risk Assessment & Vulnerability Detection</i></b>
+</p>
+
+| 🧠 AI Context Analysis | 💬 SSE Streaming Chat |
+| :---: | :---: |
+| <img src="Photos/Screenshot%202026-04-01%20185703.png" width="400"> | <img src="Photos/Screenshot%202026-04-01%20181604.png" width="400"> |
+| *Deep 11-line code window auditing* | *Interactive consultant powered by Llama 3* |
+
+| 🛡️ Security Probes Config | ⚡ GPU-Accelerated Scans |
+| :---: | :---: |
+| <img src="Photos/Screenshot%202026-04-01%20192341.png" width="400"> | <img src="Photos/Screenshot%202026-04-01%20181345.png" width="400"> |
+| *Customizing 33+ detection modules* | *Ultra-fast local processing with Ollama* |
+
+<h3 align="center">📄 Professional PDF Reporting Engine</h3>
+<p align="center">
+  <img src="Photos/Screenshot%202026-04-01%20192617.png" width="280">
+  <img src="Photos/Screenshot%202026-04-01%20192604.png" width="280">
+  <img src="Photos/Screenshot%202026-04-01%20192631.png" width="280">
+  <br>
+  <i>Automated professional reports with Executive Summaries and Detailed Findings.</i>
+</p>
+
+<details>
+  <summary><b>🔍 Click here to view more UI details & Vulnerability Detection Panels</b></summary>
+  <br>
+  <p align="center">
+    <img src="Photos/Screenshot%202026-04-01%20192350.png" width="800"><br>
+    <img src="Photos/Screenshot%202026-04-01%20192402.png" width="800"><br>
+    <img src="Photos/Screenshot%202026-04-01%20192450.png" width="800"><br>
+    <img src="Photos/Screenshot%202026-04-01%20192505.png" width="800"><br>
+    <img src="Photos/Screenshot%202026-04-01%20192523.png" width="800">
+  </p>
+</details>
 
 ## Table of Contents
 
